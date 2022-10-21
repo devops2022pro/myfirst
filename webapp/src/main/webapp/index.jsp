@@ -9,12 +9,15 @@
 
     <label for="user name"><b>User Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <hr>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <hr>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <hr>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
